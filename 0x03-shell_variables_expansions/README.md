@@ -1,1 +1,1 @@
-0x03. Shell, init files, variables and expansions
+This is a  readme ok, lol
